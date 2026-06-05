@@ -1,5 +1,4 @@
 # 🛒 ShopKart – MERN E-Commerce Platform
-# 🛒 ShopKart – MERN E-Commerce Platform
 
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
