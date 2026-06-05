@@ -1,5 +1,13 @@
 # 🛒 ShopKart – MERN E-Commerce Platform
+# 🛒 ShopKart – MERN E-Commerce Platform
 
+![React](https://img.shields.io/badge/React-19-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-black)
+![Render](https://img.shields.io/badge/Backend-Render-purple)
+
+A full-stack e-commerce application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 A full-stack e-commerce application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). ShopKart provides a complete online shopping experience with secure authentication, product management, shopping cart, order processing, reviews & ratings, and an admin dashboard.
 
 ## 🚀 Live Demo
