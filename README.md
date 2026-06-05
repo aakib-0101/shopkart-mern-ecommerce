@@ -164,14 +164,16 @@ CLOUDINARY_API_SECRET=
 ## 📸 Screenshots
 
 * Home Page
-* Product Listing
-* Product Details
-* Shopping Cart
-* Admin Dashboard
-* Manage Products
-* Manage Users
+<img width="2880" height="3768" alt="homepage" src="https://github.com/user-attachments/assets/8f735669-581f-4942-a626-e97512b4cc34" />
 
-(Add screenshots here)
+* Product Details
+<img width="2880" height="2592" alt="product-details" src="https://github.com/user-attachments/assets/3ea0e8fa-c42b-44dc-b67e-b2a0199b0317" />
+
+* Cart
+<img width="2880" height="1800" alt="cart" src="https://github.com/user-attachments/assets/c867acb6-8697-4c17-ac81-29e5ea44431a" />
+
+* Admin Dashboard 
+<img width="2880" height="1800" alt="admin-dashboard" src="https://github.com/user-attachments/assets/37c95767-accf-423b-8eca-cb39d9dd201b" />
 
 ---
 
